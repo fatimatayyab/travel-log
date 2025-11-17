@@ -2,8 +2,6 @@
   import 'package:app_links/app_links.dart';
   import 'package:flutter/material.dart';
   import 'package:travellog3/services/auth/auth_service.dart';
-  import 'package:travellog3/services/firestore_trip_details.dart';
-  import 'package:travellog3/utilities/travel_experience.dart';
   import 'package:travellog3/views/add_trip_view.dart';
   import 'package:travellog3/views/edit_trip.dart';
   import 'package:travellog3/views/favourite_trips.dart';

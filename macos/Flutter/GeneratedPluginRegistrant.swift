@@ -19,7 +19,7 @@ import geolocator_apple
 import google_sign_in_ios
 import path_provider_foundation
 import share_plus
-import sqflite
+import sqflite_darwin
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
   AppLinksMacosPlugin.register(with: registry.registrar(forPlugin: "AppLinksMacosPlugin"))

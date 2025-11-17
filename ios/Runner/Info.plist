@@ -2,14 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>NSLocationAlwaysAndWhenInUsageDescription</key>
-	<string>App app want's to access your location to get address</string>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>App app want's to access your location to get address.</string>
-	<key>NSLocationAlwaysUsageDescription</key>
-	<string>App app want's to access your location to get address.</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string> App want's to access your location to get address.</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
@@ -53,16 +45,5 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
-	<key>CFBundleURLTypes</key>
-	<array>
-		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>com.googleusercontent.apps.406434833992-9mdk3e102v1sq587naim4l61geo620pb</string>
-			</array>
-		</dict>
-	</array>
 </dict>
 </plist>
